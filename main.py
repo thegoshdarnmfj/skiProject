@@ -1,0 +1,5 @@
+lat1 = input("first lat")
+long1 = input("first long")
+lat2 = input("second lat")
+long2 = input("second long")
+print ((lat1**2-lat2**2)^2+(long1**2-long2**2))
